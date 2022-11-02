@@ -1,4 +1,4 @@
-FROM node:14.9.0-alpine
+FROM node:14.20.0-alpine
 
 RUN mkdir -p /home/pengubot/
 WORKDIR /home/pengubot/
